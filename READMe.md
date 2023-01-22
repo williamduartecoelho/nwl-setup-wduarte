@@ -6,3 +6,5 @@ Trabalhamos com
 -css
 -javascript
 -git e gihtub
+
+-[Visite o projeto online](https://williamduartecoelho.github.io/nlw-setup-wduarte)
